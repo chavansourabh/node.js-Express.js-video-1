@@ -1,0 +1,23 @@
+{
+  "name": "node.js-express.js-video-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chavansourabh/node.js-Express.js-video-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chavansourabh/node.js-Express.js-video-1/issues"
+  },
+  "homepage": "https://github.com/chavansourabh/node.js-Express.js-video-1#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
